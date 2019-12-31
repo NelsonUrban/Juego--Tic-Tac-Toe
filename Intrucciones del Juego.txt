@@ -1,0 +1,19 @@
+Desarrollar Juego Tic Tac Toe
+
+
+Deberán desarrollar el Juego Tic Tac Toe, El juego consiste de 9 
+botones los cuales se deben ir marcando X o O cuando se haga click en el botón. 
+El primer jugador el obtener 3 combinaciones en linea (vertical, horizontal o diagonal) gana la partida.
+
+Deben manejar 2 jugadores (X & O).
+Validar cuando exista un ganador.
+Agregar un botón para iniciar el juego nuevamente.
+Desplegar un alert indicando el Ganador.
+Nota: 
+
+Es posible ganar el juego cuando existan 3 X o O iguales en:
+
+Linea Recta Horizontal
+Linea Recta Vertical
+Linea Diagonales
+Utilizaran las imágenes que les dejo aquí para dibujar las X y los O
